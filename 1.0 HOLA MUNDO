@@ -5,8 +5,8 @@ echo ${SALUDO}
 # No existen los tipos
 # definición de variables
 una_variable=666
-MI_NOMBRE="Richard"
-NOMBRES="Iñigo Asier Sten Roberto Pello"
+MI_NOMBRE="Luis"
+NOMBRES="Luis siko barahona"
 BOOLEANO=true
 echo "Echemos un ojo a las variables "
 echo "Un número: ${una_variable}"
